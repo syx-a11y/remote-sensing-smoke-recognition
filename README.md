@@ -6,7 +6,7 @@
 </div> 
 
 # Remote Sensing Smoke Image Datasets:
-A direct download link for the dataset is
+A direct download link for the dataset are [yuan](https://pan.baidu.com/s/1PptY11FowQ4V3ZV3zA34Sw) (提取码: yxtx ) and [USTC_SmokeRS](https://pan.baidu.com/s/1hbG-O3hSnRMZ9wGtEZdH3A) (提取码z93m )
 
 # Acknowledgements:
 [1] R. Ba, C. Chen, J. Yuan, W. Song, S. Lo, SmokeNet: Satellite smoke scene detection using convolutional neural network with spatial and channel-wise attention, Remote Sens. 11 (14) (2019) 1702 <br> 
